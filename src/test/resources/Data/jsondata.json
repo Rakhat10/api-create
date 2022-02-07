@@ -1,0 +1,25 @@
+{
+  "terminal_id": "6344",
+  "service_type": "3",
+  "is_promo_applied": true,
+  "discount_id": null,
+  "customer": {
+    "name": "Ttt",
+    "phone": "77073207636"
+  },
+  "items": [
+    {
+      "takeaway_order_item_id": {{$randomInt}},
+    "productId": "38ed7c21-11a8-8649-017b-45b6d07dab71",
+    "amount": "1",
+    "price": "505"
+    }
+  ],
+  "comment": "autotest",
+  "additional_data": {
+    "rahmet_order_id": {{$randomInt}},
+"total_price": "555",
+"express_table_id": "321",
+"guests_count": "1"
+}
+}
